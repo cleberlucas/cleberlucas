@@ -5,10 +5,11 @@
 </a>
 <br>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cleberlucas)](https://github.com/cleberlucas)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleber-lucas-599bb11b2/)](https://www.linkedin.com/in/cleber-lucas-599bb11b2/)
+
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5535997518278)](https://api.whatsapp.com/send?phone=5535997518278)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/?authuser=clebersiber@gmail.com)](https://mail.google.com/mail/u/?authuser=clebersiber@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cleberlucas)](https://github.com/cleberlucas)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleber-lucas-599bb11b2/)](https://www.linkedin.com/in/cleber-lucas-599bb11b2/)
 
 <br>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
