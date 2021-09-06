@@ -1,4 +1,4 @@
-# Seja Bem-Vindo ao meu GitHub - 👩‍💻 
+# Bem-Vindo ao meu GitHub 👩‍💻 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberlucas&show_icons=true&theme=radical)
 <a href="https://github.com/cleberlucas">
