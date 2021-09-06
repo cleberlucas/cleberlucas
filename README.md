@@ -1,4 +1,6 @@
-[![hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleber)](https://github.com/hellenmas/github-readme-stats)
+<div> 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
 
