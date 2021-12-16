@@ -2,12 +2,13 @@
  
 
 
-<h1>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-</h1>
+
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberlucas&theme=tokyonight)
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberlucas&show_icons=true&theme=radical)
 
