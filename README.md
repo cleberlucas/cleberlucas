@@ -1,18 +1,9 @@
  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Bem-Vindo ao meu GitHub 💻  
  
-
-
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="750" height="320" />
-
-
+<img align="justify" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberlucas&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberlucas&show_icons=true&theme=radical)
-
-
-
-
-
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/cleberlucas)](https://github.com/cleberlucas)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cleber-lucas-599bb11b2/)](https://www.linkedin.com/in/cleber-lucas-599bb11b2/)
