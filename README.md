@@ -2,7 +2,8 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberlucas&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberlucas&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberlucas&hide=contribs,prs)
+
 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
