@@ -1,6 +1,11 @@
 # Bem-Vindo ao meu GitHub 👩‍💻 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberlucas&show_icons=true&theme=radical)
+
+
+
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+
 <a href="https://github.com/cleberlucas">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleberlucas&theme=dark&hide_langs_below=1" />
 </a>
