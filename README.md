@@ -13,6 +13,8 @@
 ![MAUI](https://img.shields.io/badge/MAUI-5E2A84?style=for-the-badge&logo=maui&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-5A2A84?style=for-the-badge&logo=blazor&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-652F6F?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ## 📬 Meus Contatos
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cleber-lucas-599bb11b2/)](https://www.linkedin.com/in/cleber-lucas-599bb11b2/)
