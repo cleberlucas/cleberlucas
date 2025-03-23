@@ -1,7 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Bem-Vindo  💻  
 
-![Welcome Banner](https://your-image-url-here.com/banner.jpg)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberlucas&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberlucas&show_icons=true&theme=tokyonight)
 
