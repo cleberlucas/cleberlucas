@@ -22,6 +22,5 @@
 
 ## 📬 My Contacts
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cleber-lucas-599bb11b2/)](https://www.linkedin.com/in/cleber-lucas-599bb11b2/)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5535997518278)](https://api.whatsapp.com/send?phone=5535997518278)
 
 ![Visitor Count](https://profile-counter.glitch.me/cleberlucas/count.svg)
