@@ -1,9 +1,10 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome  💻  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberlucas&show_icons=true&theme=tokyonight)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=cleberlucas&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleberlucas&theme=tokyonight)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberlucas&show_icons=true&theme=tokyonight)
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=cleberlucas&theme=tokyonight)
 
 ## 🛠️ Technologies and Skills
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
