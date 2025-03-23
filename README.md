@@ -20,6 +20,10 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure&logoColor=white)
 
+## 🎓 Education
+- **Bachelor's Degree in Computer Science**  
+  [UNIFRAN - Universidade de Franca](https://www.unifran.edu.br/) - Graduation Year
+
 ## 📬 My Contacts
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cleber-lucas-599bb11b2/)](https://www.linkedin.com/in/cleber-lucas-599bb11b2/)
 
