@@ -22,7 +22,7 @@
 
 ## 🎓 Education
 - **Bachelor's Degree in Computer Science**  
-  [UNIFRAN - Universidade de Franca](https://www.unifran.edu.br/) - Graduation Year
+- **Postgraduate Course in Distributed Software Architecture**
 
 ## 📬 My Contacts
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cleber-lucas-599bb11b2/)](https://www.linkedin.com/in/cleber-lucas-599bb11b2/)
