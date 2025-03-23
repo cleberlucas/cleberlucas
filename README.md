@@ -8,20 +8,14 @@
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=cleberlucas&theme=tokyonight)
 ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=cleberlucas&theme=tokyonight)
 
-## 🚀 Meus Projetos Principais
-- [Projeto 1](link-do-projeto)
-- [Projeto 2](link-do-projeto)
-- [Projeto 3](link-do-projeto)
-
 ## 🛠️ Tecnologias e Habilidades
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MAUI](https://img.shields.io/badge/MAUI-5E2A84?style=for-the-badge&logo=maui&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-5A2A84?style=for-the-badge&logo=blazor&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📬 Meus Contatos
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cleber-lucas-599bb11b2/)](https://www.linkedin.com/in/cleber-lucas-599bb11b2/)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5535997518278)](https://api.whatsapp.com/send?phone=5535997518278)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/?authuser=clebersiber@gmail.com)](https://mail.google.com/mail/u/?authuser=clebersiber@gmail.com)
 
 ![Visitor Count](https://profile-counter.glitch.me/cleberlucas/count.svg)
